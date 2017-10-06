@@ -1,0 +1,20 @@
+{
+  "name": "todo-plus",
+  "version": "1.0.0",
+  "description": "A very simple todo app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "todo"
+  ],
+  "author": "Shahid",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6",
+    "nedb": "^1.8.0",
+    "uuid": "^3.1.0"
+  }
+}
